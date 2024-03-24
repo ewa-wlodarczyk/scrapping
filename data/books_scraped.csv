@@ -1,0 +1,242 @@
+title_author,pages,genres,funny,lighthearted,adventurous,mysterious,emotional,tense,hopeful,dark,relaxing,challenging,inspiring,reflective,sad,informative,medium_pace,fast_pace,slow_pace,avg_rating,reviews,series
+title_and_author,number_of_pages,genres,mood_funny,mood_lighthearted,mood_adventurous,mood_mysterious,mood_emotional,mood_tense,mood_hopeful,mood_dark,mood_relaxing,mood_challenging,mood_inspiring,mood_reflective,mood_sad,mood_informative,medium_pace,fast_pace,slow_pace,average_star_rating,number_reviews,is_part_of_a_series
+The Women by Kristin Hannah,471,"['historical', 'fiction']",1%,0%,35%,0%,93%,44%,29%,41%,0%,50%,48%,44%,76%,48%,67%,27%,5%,4.65,5336,0
+Iron Flame by Rebecca Yarros,625,"['romance', 'fiction', 'fantasy']",18%,1%,95%,31%,67%,68%,10%,48%,0%,30%,7%,3%,21%,1%,59%,28%,12%,4.2,73302,1
+Bride by Ali Hazelwood,399,"['romance', 'fiction', 'fantasy']",75%,46%,45%,45%,41%,17%,15%,13%,6%,4%,2%,2%,2%,1%,57%,39%,3%,4.17,20118,0
+A Fate Inked in Blood by Danielle L. Jensen,432,"['romance', 'fiction', 'fantasy']",15%,2%,97%,36%,49%,54%,7%,30%,0%,23%,7%,4%,7%,1%,61%,33%,5%,4.12,2794,1
+The Teacher by Freida McFadden,400,"['thriller', 'fiction']",1%,0%,8%,79%,20%,71%,0%,80%,0%,13%,0%,2%,11%,0%,31%,66%,2%,3.8,6289,0
+Divine Rivals by Rebecca Ross,357,"['young adult', 'romance', 'fiction', 'fantasy']",10%,6%,79%,31%,81%,47%,34%,24%,1%,15%,19%,11%,29%,1%,65%,27%,6%,4.31,50018,1
+A Court of Silver Flames by Sarah J. Maas,757,"['romance', 'fiction', 'fantasy']",16%,3%,85%,16%,85%,46%,36%,52%,1%,33%,36%,27%,25%,1%,68%,16%,14%,4.37,126032,1
+A Court of Thorns and Roses by Sarah J. Maas,416,"['romance', 'fiction', 'fantasy']",8%,4%,92%,42%,48%,45%,13%,48%,2%,15%,6%,2%,9%,0%,64%,22%,12%,4.01,242812,1
+Dune by Frank Herbert,680,"['classics', 'science fiction', 'fiction']",0%,0%,90%,45%,15%,43%,4%,30%,0%,49%,9%,29%,5%,4%,42%,4%,52%,4.09,77978,1
+Fourth Wing by Rebecca Yarros,528,"['romance', 'fiction', 'fantasy']",27%,5%,98%,33%,57%,55%,13%,31%,1%,24%,15%,3%,14%,1%,50%,46%,3%,4.48,131085,1
+Circe by Madeline Miller,393,"['historical', 'literary', 'fiction', 'fantasy']",2%,2%,72%,23%,61%,14%,19%,26%,6%,15%,25%,52%,23%,9%,59%,8%,32%,4.26,159643,0
+First Lie Wins by Ashley Elston,340,"['thriller', 'fiction']",2%,1%,46%,93%,8%,65%,2%,26%,0%,10%,0%,2%,1%,0%,36%,59%,3%,4.1,7529,0
+Butcher & Blackbird by Brynne Weaver,368,"['romance', 'fiction']",79%,16%,45%,24%,27%,35%,5%,95%,1%,9%,1%,1%,2%,0%,51%,44%,3%,4.21,18296,1
+Listen for the Lie by Amy Tintera,352,"['mystery', 'fiction']",41%,2%,11%,91%,23%,67%,3%,74%,0%,13%,0%,10%,11%,0%,31%,67%,1%,4.32,1733,0
+One Dark Window by Rachel Gillig,421,"['romance', 'fiction', 'fantasy']",5%,0%,75%,81%,32%,52%,5%,87%,0%,12%,1%,2%,8%,0%,68%,24%,6%,4.34,20383,1
+Happy Place by Emily Henry,388,"['romance', 'contemporary', 'fiction']",55%,46%,7%,0%,84%,5%,55%,0%,14%,4%,19%,42%,20%,0%,66%,24%,9%,4.16,71787,0
+Ruthless Vows by Rebecca Ross,420,"['young adult', 'romance', 'fiction', 'fantasy']",3%,3%,76%,21%,84%,50%,42%,23%,1%,16%,22%,9%,31%,0%,70%,19%,10%,4.26,19857,1
+The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid,389,"['historical', 'literary', 'lgbtqia+', 'fiction']",14%,8%,13%,22%,89%,13%,18%,10%,4%,13%,36%,58%,47%,3%,62%,32%,4%,4.48,295152,0
+House of Flame and Shadow by Sarah J. Maas,835,"['romance', 'fiction', 'fantasy']",34%,4%,96%,27%,75%,61%,36%,31%,0%,26%,21%,5%,15%,3%,57%,32%,9%,4.19,26784,1
+Yellowface by R.F. Kuang,323,"['thriller', 'literary', 'contemporary', 'fiction']",27%,2%,4%,28%,25%,62%,0%,68%,0%,36%,1%,39%,7%,13%,42%,53%,4%,4.09,58190,0
+The Seven Year Slip by Ashley Poston,336,"['romance', 'fiction', 'speculative fiction']",45%,46%,16%,11%,82%,1%,65%,1%,9%,4%,31%,41%,25%,0%,66%,29%,3%,4.37,16930,0
+None of This Is True by Lisa Jewell,370,"['mystery', 'thriller', 'fiction']",0%,0%,7%,89%,26%,76%,0%,90%,0%,16%,0%,5%,20%,0%,40%,54%,5%,4.12,23640,0
+The Cruel Prince by Holly Black,370,"['young adult', 'fiction', 'fantasy']",12%,4%,89%,49%,22%,52%,3%,54%,2%,18%,5%,3%,4%,0%,61%,26%,11%,3.98,147362,1
+The Invisible Life of Addie LaRue by V.E. Schwab,444,"['historical', 'literary', 'fiction', 'fantasy']",4%,3%,55%,53%,75%,15%,28%,40%,3%,11%,22%,47%,40%,0%,56%,6%,37%,4.24,160060,0
+Crown of Midnight by Sarah J. Maas,420,"['fiction', 'fantasy']",8%,1%,95%,65%,57%,50%,8%,53%,0%,21%,7%,3%,20%,2%,66%,26%,6%,4.23,120165,1
+Powerless by Lauren Roberts,502,"['young adult', 'romance', 'fiction', 'fantasy']",29%,5%,90%,24%,61%,62%,9%,34%,1%,28%,6%,3%,19%,0%,60%,31%,7%,4.21,13906,1
+The Silent Patient by Alex Michaelides,325,"['mystery', 'thriller', 'fiction']",0%,0%,7%,91%,26%,67%,0%,81%,0%,14%,0%,10%,14%,1%,45%,45%,9%,3.99,154718,0
+"Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin",416,"['literary', 'contemporary', 'fiction']",19%,5%,17%,1%,90%,9%,36%,13%,3%,16%,33%,64%,53%,8%,70%,11%,18%,4.28,91791,0
+Remarkably Bright Creatures by Shelby Van Pelt,360,"['mystery', 'literary', 'contemporary', 'fiction']",34%,34%,15%,20%,80%,0%,69%,0%,11%,2%,37%,43%,23%,5%,70%,13%,15%,4.35,36026,0
+I'm Glad My Mom Died by Jennette McCurdy,304,"['memoir', 'nonfiction']",38%,1%,0%,0%,89%,17%,23%,51%,0%,36%,29%,64%,66%,16%,45%,50%,3%,4.54,126271,0
+Two Twisted Crowns by Rachel Gillig,464,"['romance', 'fiction', 'fantasy']",11%,1%,88%,68%,63%,55%,22%,83%,0%,19%,7%,8%,16%,0%,70%,25%,4%,4.5,12214,1
+A Court of Wings and Ruin by Sarah J. Maas,705,"['romance', 'fiction', 'fantasy']",19%,3%,95%,23%,76%,59%,25%,49%,1%,24%,14%,5%,22%,0%,64%,25%,10%,4.35,170732,1
+Babel: An Arcane History by R.F. Kuang,544,"['historical', 'literary', 'fiction', 'fantasy']",3%,0%,42%,26%,65%,50%,12%,74%,0%,58%,21%,50%,43%,43%,59%,5%,34%,4.39,53182,0
+Throne of Glass by Sarah J. Maas,406,"['fiction', 'fantasy']",16%,4%,95%,60%,29%,43%,12%,40%,1%,20%,9%,2%,6%,0%,64%,26%,9%,4.02,153833,1
+Heir of Fire by Sarah J. Maas,565,"['fiction', 'fantasy']",9%,1%,97%,39%,69%,53%,25%,54%,0%,27%,19%,8%,22%,1%,69%,16%,13%,4.36,106931,1
+A Good Girl's Guide to Murder by Holly Jackson,433,"['mystery', 'thriller', 'young adult', 'fiction']",18%,4%,62%,94%,37%,60%,10%,46%,1%,17%,6%,6%,17%,5%,40%,56%,2%,4.31,111083,1
+House of Earth and Blood by Sarah J. Maas,800,"['romance', 'fiction', 'fantasy']",34%,3%,91%,60%,79%,53%,21%,47%,0%,25%,18%,6%,28%,1%,64%,17%,18%,4.47,88226,1
+A Court of Mist and Fury by Sarah J. Maas,624,"['romance', 'fiction', 'fantasy']",22%,5%,94%,34%,74%,51%,21%,53%,2%,20%,12%,6%,16%,0%,63%,28%,7%,4.56,204587,1
+Yours Truly by Abby Jimenez,398,"['romance', 'contemporary', 'fiction']",71%,49%,2%,0%,85%,4%,60%,1%,8%,6%,25%,20%,13%,4%,61%,33%,5%,4.35,23770,1
+The Hunger Games by Suzanne Collins,374,"['young adult', 'fiction', 'dystopian']",6%,0%,88%,10%,60%,72%,12%,62%,0%,30%,13%,13%,30%,1%,36%,62%,1%,4.32,329192,1
+The Housemaid by Freida McFadden,332,"['thriller', 'fiction']",1%,0%,9%,86%,18%,79%,2%,81%,0%,12%,0%,1%,8%,0%,26%,71%,1%,4.16,48971,1
+A Court of Frost and Starlight by Sarah J. Maas,229,"['romance', 'fiction', 'fantasy']",28%,68%,18%,3%,48%,4%,51%,4%,28%,2%,12%,25%,7%,2%,40%,30%,29%,3.64,132061,1
+Piranesi by Susanna Clarke,245,"['literary', 'fiction', 'fantasy']",4%,3%,53%,91%,26%,16%,19%,27%,7%,20%,13%,54%,13%,1%,58%,19%,22%,4.31,62523,0
+House of Sky and Breath by Sarah J. Maas,805,"['romance', 'fiction', 'fantasy']",34%,4%,95%,57%,67%,62%,15%,40%,1%,26%,9%,3%,15%,2%,66%,17%,16%,4.44,57550,1
+The Secret History by Donna Tartt,559,"['mystery', 'thriller', 'literary', 'fiction']",8%,0%,13%,80%,33%,65%,0%,95%,0%,30%,2%,37%,23%,2%,37%,3%,58%,4.22,104874,0
+Emily Wilde's Encyclopaedia of Faeries by Heather Fawcett,336,"['historical', 'fiction', 'fantasy']",54%,63%,88%,39%,12%,5%,12%,10%,18%,3%,6%,4%,0%,9%,66%,13%,19%,4.13,19204,1
+Beach Read by Emily Henry,361,"['romance', 'contemporary', 'fiction']",63%,62%,9%,1%,74%,2%,51%,2%,19%,3%,18%,28%,15%,0%,67%,25%,7%,4.1,145109,0
+Lessons in Chemistry by Bonnie Garmus,390,"['historical', 'literary', 'fiction']",53%,17%,7%,2%,70%,4%,48%,7%,3%,17%,73%,35%,29%,27%,67%,23%,8%,4.24,75527,0
+Before the Coffee Gets Cold by Toshikazu Kawaguchi,213,"['magical realism', 'literary', 'fiction']",5%,20%,7%,18%,82%,2%,52%,1%,17%,4%,32%,68%,39%,0%,52%,26%,20%,3.8,74095,1
+The Midnight Library by Matt Haig,288,"['literary', 'contemporary', 'fiction']",7%,6%,28%,10%,71%,5%,62%,17%,3%,14%,56%,78%,27%,3%,51%,38%,9%,3.92,181116,0
+Caraval by Stephanie Garber,407,"['young adult', 'fiction', 'fantasy']",8%,8%,94%,85%,37%,38%,13%,31%,1%,20%,6%,4%,7%,0%,56%,39%,4%,3.89,73996,1
+Kingdom of Ash by Sarah J. Maas,984,"['fiction', 'fantasy']",17%,2%,96%,17%,89%,62%,47%,56%,0%,37%,36%,10%,45%,0%,60%,25%,14%,4.63,72422,1
+The Song of Achilles by Madeline Miller,369,"['fantasy', 'literary', 'fiction', 'historical', 'lgbtqia+', 'romance']",3%,3%,70%,4%,89%,25%,12%,15%,2%,12%,13%,20%,72%,5%,67%,17%,15%,4.38,223103,0
+Empire of Storms by Sarah J. Maas,693,"['fiction', 'fantasy']",14%,1%,96%,32%,78%,64%,24%,59%,0%,33%,15%,5%,30%,1%,64%,27%,7%,4.54,85139,1
+The Poppy War by R.F. Kuang,544,"['historical', 'fiction', 'fantasy']",3%,0%,74%,17%,52%,68%,1%,93%,0%,42%,3%,12%,40%,5%,63%,22%,14%,4.26,58231,1
+The Serpent and the Wings of Night by Carissa Broadbent,504,"['romance', 'fiction', 'fantasy']",13%,1%,88%,38%,58%,65%,7%,74%,0%,27%,4%,3%,16%,0%,61%,34%,4%,4.32,33380,1
+Heartless Hunter by Kristen Ciccarelli,406,"['young adult', 'romance', 'fiction', 'fantasy']",4%,1%,84%,61%,57%,59%,8%,51%,0%,18%,3%,3%,18%,0%,57%,40%,2%,4.28,2171,1
+Once Upon a Broken Heart by Stephanie Garber,408,"['young adult', 'romance', 'fiction', 'fantasy']",18%,29%,89%,67%,33%,20%,22%,12%,5%,8%,7%,3%,5%,0%,52%,42%,4%,4.04,39978,1
+The Love Hypothesis by Ali Hazelwood,352,"['romance', 'contemporary', 'fiction']",79%,87%,4%,0%,40%,3%,28%,0%,22%,1%,12%,4%,2%,4%,44%,51%,4%,4.15,149445,0
+Project Hail Mary by Andy Weir,476,"['science fiction', 'fiction']",67%,15%,94%,20%,48%,42%,51%,6%,1%,17%,33%,12%,9%,34%,60%,32%,6%,4.5,61046,0
+A Little Life by Hanya Yanagihara,816,"['lgbtqia+', 'contemporary', 'literary', 'fiction']",1%,0%,1%,4%,90%,39%,8%,86%,0%,51%,6%,45%,94%,1%,32%,2%,64%,4.38,76092,0
+A Psalm for the Wild-Built by Becky Chambers,147,"['lgbtqia+', 'science fiction', 'fiction']",22%,43%,41%,2%,45%,0%,74%,0%,40%,4%,57%,79%,1%,2%,48%,30%,21%,4.4,31045,1
+"Love, Theoretically by Ali Hazelwood",384,"['romance', 'contemporary', 'fiction']",76%,78%,3%,0%,55%,2%,34%,0%,16%,3%,19%,16%,2%,10%,58%,37%,4%,4.17,42351,0
+Red Rising by Pierce Brown,382,"['science fiction', 'fiction', 'dystopian']",7%,0%,89%,13%,37%,68%,9%,75%,0%,26%,13%,7%,15%,0%,51%,42%,6%,4.11,44303,1
+Never Lie by Freida McFadden,336,"['thriller', 'fiction']",1%,0%,8%,91%,7%,68%,0%,80%,0%,8%,0%,2%,3%,1%,30%,66%,3%,3.93,23341,0
+I Who Have Never Known Men by Jacqueline Harpman,188,"['literary', 'science fiction', 'fiction', 'dystopian']",0%,0%,17%,63%,51%,23%,11%,73%,0%,37%,7%,69%,54%,1%,51%,19%,29%,4.3,10880,0
+The Assassin's Blade by Sarah J. Maas,448,"['young adult', 'fiction', 'fantasy']",6%,1%,93%,29%,71%,47%,7%,52%,0%,23%,6%,6%,47%,3%,59%,31%,9%,4.13,75877,1
+The Priory of the Orange Tree by Samantha Shannon,830,"['lgbtqia+', 'fiction', 'fantasy']",4%,1%,98%,36%,48%,38%,20%,19%,1%,26%,19%,7%,7%,1%,59%,7%,32%,4.29,51665,1
+Weyward by Emilia Hart,392,"['magical realism', 'historical', 'literary', 'fiction']",0%,0%,23%,56%,76%,32%,33%,61%,1%,19%,31%,36%,36%,2%,70%,15%,13%,4.09,14684,0
+The Inheritance Games by Jennifer Lynn Barnes,376,"['mystery', 'young adult', 'fiction']",17%,12%,83%,92%,16%,30%,4%,10%,2%,22%,3%,5%,2%,1%,33%,63%,3%,4.1,86779,1
+Catching Fire by Suzanne Collins,391,"['young adult', 'fiction', 'dystopian']",6%,0%,86%,17%,63%,74%,11%,61%,0%,31%,13%,11%,28%,1%,40%,56%,2%,4.28,220517,1
+Queen of Shadows by Sarah J. Maas,648,"['fiction', 'fantasy']",15%,2%,97%,35%,71%,60%,34%,60%,0%,29%,19%,5%,18%,1%,68%,25%,6%,4.52,95440,1
+"This Is How You Lose the Time War by Max Gladstone, Amal El-Mohtar",198,"['romance', 'lgbtqia+', 'science fiction', 'fiction']",9%,3%,62%,49%,71%,24%,26%,13%,1%,38%,12%,30%,15%,0%,43%,40%,16%,4.05,64365,0
+Crying in H Mart by Michelle Zauner,239,"['food and drink', 'music', 'memoir', 'nonfiction']",11%,1%,1%,0%,94%,4%,21%,11%,1%,16%,23%,77%,79%,7%,71%,13%,15%,4.37,63182,0
+Icebreaker by Hannah Grace,432,"['sports', 'romance', 'contemporary', 'fiction']",71%,80%,7%,0%,51%,6%,24%,0%,18%,4%,14%,8%,4%,1%,62%,27%,9%,3.85,65301,1
+Wildfire by Hannah Grace,387,"['romance', 'contemporary', 'fiction']",72%,83%,15%,0%,53%,2%,36%,0%,20%,2%,12%,13%,4%,0%,67%,25%,6%,3.93,18631,1
+The Woman in Me by Britney Spears,287,"['music', 'memoir', 'nonfiction']",7%,1%,1%,0%,81%,9%,33%,31%,0%,19%,41%,57%,67%,33%,33%,62%,4%,4.01,29680,0
+Check & Mate by Ali Hazelwood,352,"['young adult', 'romance', 'contemporary', 'fiction']",66%,77%,7%,0%,53%,5%,35%,0%,15%,5%,29%,14%,4%,11%,55%,40%,4%,4.13,18817,0
+Annie Bot by Sierra Greer,240,"['thriller', 'literary', 'science fiction', 'fiction']",4%,0%,16%,7%,52%,47%,17%,52%,0%,35%,8%,63%,30%,3%,53%,39%,7%,4.04,674,0
+Ninth House by Leigh Bardugo,458,"['thriller', 'fiction', 'fantasy']",9%,0%,58%,89%,25%,56%,1%,94%,0%,19%,1%,5%,11%,1%,67%,14%,18%,4.07,68876,1
+The Fury by Alex Michaelides,298,"['thriller', 'fiction']",4%,1%,16%,89%,17%,59%,0%,69%,0%,11%,0%,10%,8%,0%,45%,35%,19%,3.47,6082,0
+Good Material by Dolly Alderton,352,"['romance', 'contemporary', 'fiction']",82%,35%,0%,0%,76%,1%,40%,1%,4%,4%,13%,68%,25%,1%,68%,20%,11%,4.1,4786,0
+A Tempest of Tea by Hafsah Faizal,338,"['young adult', 'historical', 'fiction', 'fantasy']",22%,5%,92%,72%,38%,51%,8%,37%,0%,12%,6%,5%,8%,0%,60%,29%,10%,3.94,1677,1
+Funny Story by Emily Henry,384,"['romance', 'contemporary', 'fiction']",88%,58%,6%,0%,81%,2%,62%,0%,8%,2%,29%,30%,9%,0%,69%,27%,3%,4.57,632,0
+The Fifth Season by N.K. Jemisin,498,"['science fiction', 'fiction', 'fantasy']",3%,0%,78%,58%,51%,49%,3%,78%,0%,42%,4%,17%,27%,1%,71%,12%,16%,4.41,48574,1
+Daisy Jones & The Six by Taylor Jenkins Reid,368,"['historical', 'fiction']",23%,13%,27%,3%,82%,20%,22%,21%,5%,13%,29%,55%,32%,3%,57%,35%,6%,4.25,184116,0
+Normal People by Sally Rooney,273,"['literary', 'contemporary', 'fiction']",6%,5%,1%,2%,85%,19%,14%,23%,5%,15%,7%,69%,53%,1%,56%,22%,21%,3.83,169554,0
+The Nightingale by Kristin Hannah,448,"['historical', 'fiction']",0%,0%,37%,4%,91%,44%,26%,45%,0%,34%,50%,31%,78%,19%,67%,14%,18%,4.54,66786,0
+Haunting Adeline by H.D. Carlton,583,"['thriller', 'romance', 'fiction', 'erotica']",6%,0%,17%,61%,37%,74%,2%,99%,0%,30%,0%,2%,15%,1%,61%,28%,9%,3.8,40395,1
+The Three-Body Problem by Cixin Liu,399,"['science fiction', 'fiction']",1%,0%,43%,73%,7%,38%,3%,46%,0%,60%,5%,36%,6%,30%,49%,9%,40%,3.95,29731,1
+Verity by Colleen Hoover,323,"['mystery', 'contemporary', 'thriller', 'fiction', 'romance']",0%,0%,7%,84%,40%,77%,0%,92%,0%,16%,0%,4%,22%,0%,29%,67%,2%,4.14,173068,0
+The Heaven & Earth Grocery Store by James McBride,385,"['historical', 'literary', 'fiction']",18%,2%,12%,22%,77%,24%,39%,29%,0%,33%,27%,48%,42%,10%,56%,6%,36%,4.06,5475,0
+From Blood and Ash by Jennifer L. Armentrout,613,"['romance', 'fiction', 'fantasy']",20%,3%,89%,56%,45%,43%,5%,63%,1%,14%,3%,2%,9%,0%,63%,20%,16%,4.1,71086,1
+The Dead Romantics by Ashley Poston,344,"['romance', 'contemporary', 'fiction', 'fantasy']",64%,48%,7%,17%,82%,1%,63%,7%,7%,3%,18%,31%,31%,0%,68%,23%,8%,4.04,25314,0
+Dune Messiah by Frank Herbert,336,"['classics', 'science fiction', 'fiction']",0%,0%,56%,51%,28%,42%,1%,50%,0%,46%,3%,45%,23%,2%,46%,10%,43%,3.75,19694,1
+Swift and Saddled by Lyla Sage,320,"['romance', 'contemporary', 'fiction']",60%,83%,14%,0%,61%,1%,51%,0%,17%,2%,19%,14%,2%,1%,52%,43%,3%,4.21,1948,1
+Legends & Lattes by Travis Baldree,305,"['lgbtqia+', 'fiction', 'fantasy']",37%,90%,34%,4%,22%,1%,62%,0%,58%,0%,25%,7%,0%,0%,54%,28%,16%,4.2,48576,1
+Tower of Dawn by Sarah J. Maas,664,"['fiction', 'fantasy']",9%,2%,90%,40%,72%,48%,38%,46%,1%,29%,20%,12%,18%,4%,66%,7%,26%,4.21,70723,1
+Mockingjay by Suzanne Collins,390,"['young adult', 'fiction', 'dystopian']",2%,0%,73%,9%,75%,67%,19%,76%,0%,37%,14%,20%,55%,1%,56%,35%,8%,3.96,204867,1
+People We Meet on Vacation by Emily Henry,361,"['romance', 'contemporary', 'fiction']",71%,79%,29%,0%,56%,2%,37%,0%,22%,1%,11%,16%,4%,0%,63%,23%,12%,3.98,130385,0
+The House in the Cerulean Sea by TJ Klune,398,"['lgbtqia+', 'fiction', 'fantasy']",61%,61%,54%,10%,67%,1%,79%,1%,19%,4%,57%,26%,5%,1%,71%,19%,8%,4.48,118830,1
+The Only One Left by Riley Sager,383,"['thriller', 'fiction']",0%,0%,15%,95%,28%,69%,3%,78%,0%,11%,0%,6%,21%,0%,57%,35%,6%,4.06,20983,0
+The Perfectionist's Guide to Losing Control: A Path to Peace and Power by Katherine Morgan Schafler,320,"['psychology', 'self help', 'nonfiction']",7%,2%,0%,0%,25%,0%,48%,0%,1%,27%,59%,63%,1%,90%,69%,12%,18%,4.23,401,0
+Happily Never After by Lynn Painter,304,"['romance', 'contemporary', 'fiction']",89%,91%,5%,0%,26%,0%,31%,0%,11%,0%,5%,4%,0%,0%,44%,54%,1%,4.0,687,0
+All the Light We Cannot See by Anthony Doerr,531,"['historical', 'literary', 'fiction']",0%,0%,24%,10%,84%,35%,28%,37%,0%,26%,28%,47%,68%,13%,55%,7%,36%,4.26,89528,0
+Fangirl Down by Tessa Bailey,369,"['romance', 'contemporary', 'fiction']",85%,85%,9%,0%,44%,1%,36%,0%,13%,2%,19%,5%,1%,2%,52%,45%,1%,4.13,2824,1
+The Fake Mate by Lana Ferguson,386,"['romance', 'fiction', 'fantasy']",81%,86%,9%,1%,27%,2%,19%,0%,10%,0%,1%,1%,0%,1%,53%,43%,2%,3.78,4844,0
+Anita de Monte Laughs Last by Xochitl Gonzalez,341,"['mystery', 'literary', 'fiction']",27%,0%,15%,37%,76%,32%,27%,38%,0%,30%,38%,51%,24%,17%,70%,20%,9%,4.28,413,0
+Tress of the Emerald Sea by Brandon Sanderson,369,"['fiction', 'fantasy']",74%,68%,98%,17%,20%,5%,46%,0%,10%,4%,36%,9%,0%,0%,63%,30%,5%,4.45,18204,1
+Harry Potter and the Prisoner of Azkaban by J.K. Rowling,435,"['fiction', 'fantasy', 'middle grade']",35%,26%,97%,62%,40%,25%,22%,25%,9%,10%,14%,4%,9%,1%,59%,37%,2%,4.6,248348,1
+The Very Secret Society of Irregular Witches by Sangu Mandanna,318,"['romance', 'contemporary', 'fiction', 'fantasy']",62%,85%,25%,12%,47%,0%,65%,0%,28%,1%,25%,10%,2%,0%,65%,28%,6%,4.22,31894,1
+The Prisoner's Throne  by Holly Black,356,"['young adult', 'fiction', 'fantasy']",24%,7%,93%,41%,51%,50%,16%,32%,1%,16%,5%,5%,8%,0%,63%,29%,7%,4.12,1380,1
+Bright Young Women by Jessica Knoll,376,"['mystery', 'thriller', 'fiction', 'historical', 'lgbtqia+']",0%,0%,4%,31%,65%,54%,10%,87%,0%,39%,12%,33%,50%,18%,69%,16%,13%,4.15,8026,0
+The Night Circus by Erin Morgenstern,512,"['historical', 'romance', 'fiction', 'fantasy']",2%,8%,65%,90%,40%,13%,17%,24%,8%,12%,18%,19%,9%,0%,42%,5%,51%,4.06,112321,0
+The Ballad of Songbirds and Snakes by Suzanne Collins,517,"['young adult', 'fiction', 'dystopian']",2%,0%,63%,22%,37%,66%,3%,78%,0%,26%,1%,23%,24%,3%,65%,18%,16%,3.83,96015,1
+All Systems Red by Martha Wells,152,"['science fiction', 'fiction']",71%,24%,88%,28%,11%,24%,10%,11%,2%,3%,3%,11%,1%,1%,17%,81%,1%,4.13,44747,1
+Assistant to the Villain by Hannah Nicole Maehrer,340,"['romance', 'fiction', 'fantasy']",85%,59%,77%,40%,23%,13%,12%,21%,6%,5%,4%,1%,4%,0%,59%,30%,9%,3.92,15083,1
+Welcome to the Hyunam-dong Bookshop by Hwang Bo-reum,308,"['literary', 'fiction']",9%,49%,1%,0%,43%,0%,75%,0%,58%,2%,67%,82%,4%,5%,48%,6%,44%,4.16,1558,0
+Book Lovers by Emily Henry,377,"['romance', 'contemporary', 'fiction']",74%,73%,9%,0%,66%,1%,47%,0%,20%,2%,18%,19%,7%,0%,65%,28%,6%,4.25,126277,0
+Demon Copperhead by Barbara Kingsolver,548,"['literary', 'contemporary', 'fiction']",24%,0%,22%,0%,84%,24%,35%,69%,0%,52%,21%,51%,73%,17%,66%,8%,25%,4.52,19378,0
+A Study in Drowning by Ava Reid,376,"['young adult', 'fiction', 'fantasy']",1%,0%,42%,85%,56%,46%,16%,80%,0%,18%,13%,24%,20%,1%,70%,11%,18%,4.0,10756,0
+If We Were Villains by M.L. Rio,358,"['thriller', 'literary', 'fiction']",4%,0%,12%,84%,68%,62%,2%,91%,0%,21%,3%,23%,42%,1%,69%,15%,14%,4.25,63042,0
+A Gentleman in Moscow by Amor Towles,462,"['historical', 'literary', 'fiction']",41%,29%,23%,12%,51%,5%,55%,2%,18%,8%,37%,68%,10%,20%,46%,3%,49%,4.28,32406,0
+My Year of Rest and Relaxation by Ottessa Moshfegh,289,"['literary', 'contemporary', 'fiction']",35%,1%,1%,7%,34%,16%,3%,86%,3%,19%,1%,61%,39%,0%,41%,12%,45%,3.69,68507,0
+Tom Lake by Ann Patchett,309,"['historical', 'literary', 'fiction', 'romance']",16%,23%,4%,3%,71%,0%,36%,1%,26%,2%,15%,86%,15%,1%,60%,5%,33%,4.16,11417,0
+The Catcher in the Rye by J.D. Salinger,277,"['classics', 'literary', 'fiction']",31%,7%,20%,4%,50%,11%,6%,31%,3%,15%,6%,73%,38%,1%,41%,19%,39%,3.56,149962,0
+The Wicked King by Holly Black,336,"['young adult', 'fiction', 'fantasy']",11%,3%,91%,46%,33%,61%,5%,54%,1%,23%,4%,3%,6%,0%,60%,33%,5%,4.25,105058,1
+Poor Things by Alasdair Gray,317,"['historical', 'fiction', 'fantasy']",66%,10%,51%,47%,18%,8%,8%,54%,0%,31%,10%,39%,9%,11%,65%,19%,15%,4.06,2629,0
+Bunny by Mona Awad,305,"['literary', 'contemporary', 'fiction', 'horror']",27%,0%,9%,75%,18%,52%,0%,95%,0%,27%,0%,13%,10%,0%,62%,25%,12%,3.69,49702,0
+Six of Crows by Leigh Bardugo,480,"['young adult', 'fiction', 'fantasy']",40%,4%,98%,49%,43%,56%,8%,58%,1%,18%,7%,3%,9%,0%,53%,41%,4%,4.53,165774,1
+Tender Is the Flesh by Agustina Bazterrica,211,"['horror', 'literary', 'fiction', 'dystopian']",0%,0%,1%,10%,23%,59%,0%,98%,0%,41%,0%,24%,36%,1%,50%,38%,11%,3.8,38380,0
+Where the Crawdads Sing by Delia Owens,370,"['mystery', 'literary', 'fiction', 'historical', 'crime']",2%,2%,40%,70%,76%,24%,22%,23%,5%,14%,26%,42%,42%,10%,59%,10%,29%,4.21,170721,0
+Lightlark by Alex Aster,409,"['young adult', 'romance', 'fiction', 'fantasy']",7%,6%,92%,67%,36%,43%,11%,28%,1%,20%,5%,3%,7%,0%,62%,27%,10%,3.56,9155,1
+The Wishing Game by Meg Shaffer,278,"['contemporary', 'fiction', 'fantasy']",19%,39%,64%,32%,73%,2%,79%,2%,6%,5%,45%,21%,11%,0%,59%,36%,4%,4.17,10554,0
+The Familiar by Leigh Bardugo,400,"['historical', 'fiction', 'fantasy']",0%,0%,54%,69%,56%,43%,21%,71%,0%,22%,7%,24%,19%,1%,74%,8%,16%,4.42,116,0
+What the River Knows by Isabel Ibañez,404,"['fantasy', 'young adult', 'fiction', 'historical', 'romance']",14%,6%,97%,81%,45%,37%,7%,14%,0%,11%,5%,3%,11%,10%,67%,18%,14%,3.98,5509,1
+Bookshops & Bonedust by Travis Baldree,336,"['lgbtqia+', 'fiction', 'fantasy']",53%,81%,74%,15%,33%,2%,43%,1%,42%,1%,16%,14%,2%,0%,64%,20%,15%,4.27,10630,1
+Twilight by Stephenie Meyer,498,"['young adult', 'romance', 'fiction', 'fantasy']",22%,18%,49%,62%,46%,32%,6%,39%,10%,5%,1%,3%,5%,0%,61%,25%,13%,3.17,202366,1
+Part of Your World by Abby Jimenez,388,"['romance', 'contemporary', 'fiction']",63%,57%,7%,0%,77%,4%,58%,1%,11%,5%,26%,19%,10%,2%,63%,33%,3%,4.32,26701,1
+Starling House by Alix E. Harrow,303,"['fiction', 'fantasy']",10%,0%,51%,86%,51%,38%,19%,85%,0%,11%,4%,14%,19%,0%,71%,12%,16%,4.05,10674,0
+Legendborn by Tracy Deonn,501,"['young adult', 'fiction', 'fantasy']",12%,1%,96%,63%,68%,42%,15%,34%,0%,25%,24%,19%,18%,6%,64%,29%,5%,4.45,40656,1
+Days at the Morisaki Bookshop by Satoshi Yagisawa,169,"['contemporary', 'fiction']",15%,61%,4%,2%,52%,0%,54%,0%,45%,1%,32%,61%,8%,2%,41%,41%,17%,3.74,7835,1
+When the Moon Hatched by Sarah A. Parker,730,"['fiction', 'fantasy']",16%,0%,90%,57%,73%,44%,14%,59%,0%,27%,8%,9%,29%,1%,64%,17%,17%,4.26,1692,1
+Flawless by Elsie Silver,424,"['sports', 'romance', 'contemporary', 'fiction']",59%,76%,21%,0%,61%,7%,32%,0%,15%,3%,12%,7%,5%,0%,64%,31%,3%,4.04,24911,1
+The Memory Police by Yōko Ogawa,274,"['literary', 'science fiction', 'fiction', 'dystopian']",0%,0%,4%,58%,44%,30%,2%,65%,1%,23%,2%,63%,62%,0%,42%,7%,50%,3.78,20405,0
+Everything I Know About Love: A Memoir by Dolly Alderton,368,"['memoir', 'nonfiction']",77%,40%,10%,0%,70%,0%,52%,1%,9%,6%,53%,77%,12%,13%,62%,27%,9%,4.05,34225,0
+Chain-Gang All-Stars by Nana Kwame Adjei-Brenyah,363,"['literary', 'lgbtqia+', 'fiction', 'dystopian']",5%,0%,23%,1%,59%,67%,5%,90%,0%,66%,5%,36%,47%,33%,63%,28%,7%,4.34,7389,0
+The Fine Print by Lauren Asher,441,"['romance', 'contemporary', 'fiction']",58%,66%,10%,2%,62%,9%,33%,3%,13%,6%,15%,10%,10%,0%,64%,28%,6%,3.79,52636,1
+Expiration Dates by Rebecca Serle,272,"['romance', 'contemporary', 'fiction']",18%,33%,9%,9%,76%,2%,65%,0%,2%,6%,25%,56%,17%,1%,59%,34%,6%,3.83,612,0
+Scythe by Neal Shusterman,440,"['young adult', 'science fiction', 'fiction', 'dystopian']",8%,1%,74%,42%,31%,51%,8%,67%,0%,25%,8%,33%,9%,2%,60%,34%,5%,4.28,54497,1
+Things We Never Got Over by Lucy Score,554,"['romance', 'contemporary', 'fiction']",60%,53%,17%,16%,76%,19%,41%,5%,10%,8%,15%,11%,11%,0%,64%,22%,13%,4.08,48577,1
+Dark Matter by Blake Crouch,342,"['thriller', 'science fiction', 'fiction']",1%,0%,78%,66%,39%,73%,9%,56%,0%,24%,4%,27%,10%,5%,27%,71%,1%,4.08,56201,0
+Big Swiss by Jen Beagin,325,"['lgbtqia+', 'contemporary', 'literary', 'fiction']",78%,9%,7%,9%,46%,20%,6%,66%,1%,15%,1%,39%,18%,0%,68%,18%,13%,3.8,11145,0
+The Will of the Many by James Islington,630,"['fiction', 'fantasy']",7%,0%,92%,77%,38%,67%,5%,57%,0%,34%,7%,7%,12%,1%,67%,23%,9%,4.62,4030,1
+The Housemaid's Secret by Freida McFadden,316,"['thriller', 'fiction']",2%,0%,16%,89%,13%,75%,2%,71%,0%,11%,0%,1%,4%,0%,26%,71%,1%,4.09,20644,1
+Gideon the Ninth by Tamsyn Muir,448,"['lgbtqia+', 'science fiction', 'fiction', 'fantasy']",66%,4%,82%,76%,36%,46%,1%,84%,0%,22%,1%,2%,15%,0%,68%,18%,13%,4.29,37851,1
+A Darker Shade of Magic by V.E. Schwab,400,"['fiction', 'fantasy']",17%,4%,97%,56%,15%,36%,4%,55%,1%,8%,3%,1%,2%,0%,58%,33%,7%,4.08,75751,1
+On Earth We're Briefly Gorgeous by Ocean Vuong,246,"['lgbtqia+', 'contemporary', 'literary', 'fiction']",1%,0%,1%,2%,90%,12%,13%,38%,1%,32%,18%,81%,69%,6%,45%,8%,46%,4.15,59289,0
+The Queen of Nothing by Holly Black,300,"['young adult', 'fiction', 'fantasy']",16%,5%,93%,36%,50%,57%,17%,49%,2%,23%,8%,4%,9%,0%,46%,51%,2%,4.27,97536,1
+Emily Wilde's Map of the Otherlands by Heather Fawcett,339,"['historical', 'fiction', 'fantasy']",55%,55%,97%,44%,20%,9%,16%,10%,13%,3%,7%,3%,0%,5%,74%,18%,7%,4.42,5128,1
+Small Things Like These by Claire Keegan,112,"['historical', 'literary', 'fiction']",0%,2%,0%,9%,64%,8%,35%,29%,4%,17%,22%,77%,50%,12%,46%,34%,19%,4.15,19950,0
+The Inmate by Freida McFadden,388,"['thriller', 'fiction']",0%,0%,10%,88%,20%,75%,2%,74%,0%,12%,0%,3%,9%,0%,33%,63%,3%,3.87,16616,0
+Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear,306,"['psychology', 'self help', 'nonfiction']",1%,6%,0%,0%,0%,0%,20%,0%,4%,11%,68%,51%,0%,93%,57%,29%,12%,4.18,44073,0
+"Good Girl, Bad Blood by Holly Jackson",415,"['mystery', 'thriller', 'young adult', 'fiction']",9%,1%,56%,92%,50%,70%,8%,64%,0%,21%,3%,6%,26%,3%,41%,56%,2%,4.32,57154,1
+Hell Bent by Leigh Bardugo,481,"['fantasy', 'mystery', 'horror', 'fiction', 'thriller']",13%,0%,79%,78%,34%,61%,4%,94%,0%,19%,1%,5%,11%,1%,68%,22%,9%,4.19,22335,1
+Animal Farm by George Orwell,152,"['classics', 'fiction', 'dystopian']",12%,2%,7%,5%,12%,29%,1%,62%,0%,26%,6%,73%,22%,30%,31%,62%,5%,3.88,175863,0
+Done and Dusted by Lyla Sage,356,"['romance', 'contemporary', 'fiction']",54%,88%,14%,0%,45%,1%,36%,0%,17%,2%,15%,7%,1%,0%,43%,54%,2%,3.94,10818,1
+The Way of Kings by Brandon Sanderson,1007,"['fiction', 'fantasy']",10%,1%,96%,45%,48%,45%,23%,31%,1%,31%,33%,17%,12%,2%,54%,5%,40%,4.63,36462,1
+Twisted Love by Ana Huang,360,"['romance', 'contemporary', 'fiction']",20%,13%,12%,33%,68%,45%,15%,68%,4%,10%,3%,5%,18%,0%,54%,41%,4%,3.53,69636,1
+James by Percival Everett,301,"['historical', 'literary', 'fiction']",35%,0%,83%,2%,68%,59%,20%,65%,0%,49%,20%,42%,36%,14%,36%,61%,1%,4.73,188,0
+A Deadly Education by Naomi Novik,320,"['fiction', 'fantasy']",38%,5%,85%,50%,13%,39%,6%,75%,0%,12%,2%,3%,2%,1%,55%,31%,12%,3.93,34369,1
+The Exception to the Rule by Christina Lauren,101,"['romance', 'contemporary', 'fiction']",69%,94%,2%,2%,16%,0%,38%,0%,14%,0%,6%,1%,0%,0%,10%,87%,1%,4.24,6232,1
+A Touch of Darkness by Scarlett St. Clair,409,"['romance', 'fiction', 'fantasy']",14%,16%,50%,37%,45%,25%,11%,58%,5%,10%,4%,4%,2%,0%,47%,46%,5%,3.67,47097,1
+The Coworker by Freida McFadden,360,"['thriller', 'fiction']",2%,0%,9%,89%,14%,65%,1%,68%,0%,9%,0%,2%,9%,1%,37%,57%,4%,3.65,7989,0
+The Unmaking of June Farrow by Adrienne Young,320,"['mystery', 'magical realism', 'fiction']",0%,2%,41%,89%,78%,28%,28%,11%,1%,13%,10%,27%,19%,0%,69%,18%,12%,4.25,5911,0
+Where the Dark Stands Still by A.B. Poranek,352,"['young adult', 'fiction', 'fantasy']",19%,9%,79%,75%,74%,27%,28%,57%,2%,10%,12%,14%,32%,0%,73%,12%,13%,4.27,432,0
+Carrie Soto Is Back by Taylor Jenkins Reid,369,"['literary', 'fiction']",17%,15%,22%,0%,70%,27%,45%,0%,4%,15%,78%,37%,10%,8%,53%,42%,3%,4.29,50033,0
+Love and Other Words by Christina Lauren,420,"['romance', 'contemporary', 'fiction']",21%,33%,3%,3%,92%,8%,48%,3%,8%,6%,12%,27%,44%,0%,57%,29%,12%,4.24,56709,0
+Jane Eyre by Charlotte Brontë,532,"['classics', 'literary', 'fiction', 'romance']",7%,5%,19%,53%,72%,20%,24%,48%,6%,22%,21%,45%,24%,1%,37%,2%,60%,4.1,108705,0
+The Final Empire by Brandon Sanderson,541,"['fiction', 'fantasy']",15%,2%,97%,53%,43%,47%,28%,48%,0%,17%,21%,7%,13%,0%,66%,21%,12%,4.47,66192,1
+Legendary by Stephanie Garber,451,"['young adult', 'fiction', 'fantasy']",11%,9%,94%,82%,40%,36%,14%,28%,2%,21%,6%,3%,7%,0%,62%,32%,5%,4.1,40491,1
+Neon Gods by Katee Robert,367,"['romance', 'fiction', 'fantasy', 'erotica']",17%,11%,40%,29%,40%,31%,8%,76%,3%,6%,1%,2%,2%,0%,39%,56%,3%,3.67,42272,1
+Foundryside by Robert Jackson Bennett,503,"['lgbtqia+', 'fiction', 'fantasy']",27%,2%,96%,58%,20%,43%,7%,51%,0%,14%,4%,5%,4%,1%,60%,32%,7%,4.19,9468,1
+The Alchemist by Paulo Coelho,192,"['classics', 'literary', 'fiction', 'fantasy']",1%,16%,69%,17%,17%,1%,50%,0%,13%,10%,73%,73%,0%,7%,45%,33%,20%,3.58,110367,0
+The Ritual by Shantel Tessier,606,"['contemporary', 'fiction', 'thriller', 'romance', 'erotica']",2%,0%,21%,45%,39%,69%,1%,98%,0%,25%,0%,1%,8%,0%,53%,37%,8%,3.88,13003,1
+Practice Makes Perfect by Sarah Adams,335,"['romance', 'contemporary', 'fiction']",73%,91%,7%,0%,49%,0%,42%,0%,20%,1%,15%,10%,2%,0%,62%,32%,4%,4.05,13994,1
+Shatter Me by Tahereh Mafi,338,"['young adult', 'romance', 'fiction', 'dystopian']",11%,5%,80%,48%,43%,50%,16%,41%,2%,18%,7%,6%,15%,1%,36%,55%,7%,3.62,86986,1
+Daughter of the Moon Goddess by Sue Lynn Tan,503,"['fiction', 'fantasy']",4%,9%,96%,25%,57%,24%,31%,7%,4%,12%,25%,14%,7%,1%,59%,30%,10%,4.1,19009,1
+Better Than the Movies by Lynn Painter,356,"['young adult', 'romance', 'contemporary', 'fiction']",81%,90%,6%,0%,48%,1%,38%,0%,25%,1%,12%,8%,6%,0%,54%,40%,4%,4.23,36120,1
+Where's Molly by H.D. Carlton,243,"['romance', 'contemporary', 'fiction']",11%,0%,10%,25%,75%,52%,20%,97%,0%,26%,8%,10%,41%,1%,24%,73%,2%,4.12,2432,0
+One Day by David Nicholls,435,"['romance', 'contemporary', 'fiction']",50%,19%,5%,0%,90%,4%,36%,6%,7%,6%,15%,46%,67%,0%,64%,15%,20%,3.76,22698,0
+If He Had Been with Me by Laura Nowlin,391,"['young adult', 'romance', 'contemporary', 'fiction']",8%,8%,2%,2%,89%,18%,21%,30%,2%,11%,4%,27%,84%,0%,47%,26%,26%,3.74,21783,1
+Pride and Prejudice by Jane Austen,228,"['classics', 'literary', 'fiction', 'romance']",58%,72%,7%,1%,50%,4%,31%,0%,30%,9%,15%,25%,1%,2%,43%,4%,51%,4.31,200820,0
+The Ballad of Never After by Stephanie Garber,403,"['young adult', 'romance', 'fiction', 'fantasy']",18%,17%,91%,63%,72%,37%,26%,21%,3%,14%,7%,4%,27%,0%,52%,44%,2%,4.49,26862,1
+It Ends with Us by Colleen Hoover,376,"['romance', 'contemporary', 'fiction']",6%,3%,1%,1%,90%,40%,26%,38%,1%,24%,21%,36%,70%,9%,56%,40%,3%,4.0,199624,1
+Murder Road by Simone St. James,342,"['thriller', 'fiction', 'horror']",0%,0%,23%,95%,24%,73%,3%,85%,0%,12%,0%,6%,17%,0%,50%,44%,5%,3.9,727,0
+Harry Potter and the Sorcerer's Stone by J.K. Rowling,309,"['fiction', 'fantasy', 'middle grade']",43%,52%,96%,48%,17%,10%,24%,7%,16%,6%,18%,2%,2%,0%,42%,54%,2%,4.49,382486,1
+The Tainted Cup by Robert Jackson Bennett,432,"['mystery', 'lgbtqia+', 'fiction', 'fantasy']",37%,4%,86%,94%,6%,38%,4%,31%,1%,15%,2%,6%,1%,1%,68%,23%,8%,4.42,1093,1
+1984 by George Orwell,304,"['classics', 'literary', 'fiction', 'dystopian']",0%,0%,8%,27%,18%,62%,1%,86%,0%,45%,3%,60%,27%,15%,60%,7%,31%,4.03,190739,0
+The Guest List by Lucy Foley,313,"['mystery', 'thriller', 'contemporary', 'fiction']",1%,0%,17%,93%,24%,65%,0%,78%,0%,6%,0%,4%,11%,0%,52%,33%,13%,3.72,92560,0
+The Name of the Wind by Patrick Rothfuss,661,"['fiction', 'fantasy']",23%,6%,97%,59%,31%,23%,8%,35%,3%,15%,13%,18%,12%,0%,51%,9%,39%,4.41,58707,1
+Little Stranger  by Leigh Rivers,226,"['romance', 'fiction', 'erotica']",1%,0%,13%,19%,48%,64%,1%,98%,0%,23%,0%,0%,19%,0%,22%,77%,0%,3.73,357,0
+Belladonna by Adalyn Grace,408,"['young adult', 'romance', 'fiction', 'fantasy']",8%,3%,52%,93%,34%,34%,9%,74%,1%,8%,2%,6%,13%,0%,71%,15%,12%,4.05,15323,1
+What My Bones Know: A Memoir of Healing from Complex Trauma by Stephanie Foo,325,"['psychology', 'memoir', 'nonfiction']",10%,0%,0%,0%,89%,17%,56%,42%,0%,54%,52%,72%,49%,73%,76%,13%,9%,4.61,6163,0
+Wandering Stars by Tommy Orange,336,"['historical', 'literary', 'fiction']",7%,0%,6%,3%,86%,17%,25%,54%,0%,53%,12%,77%,61%,26%,69%,4%,25%,4.21,433,0
+The Lightning Thief by Rick Riordan,375,"['fiction', 'fantasy', 'middle grade']",71%,50%,98%,27%,13%,13%,16%,2%,7%,9%,14%,2%,1%,5%,30%,68%,0%,4.27,184012,1
+Everyone in My Family Has Killed Someone by Benjamin Stevenson,371,"['mystery', 'crime', 'fiction']",68%,15%,35%,93%,13%,33%,1%,44%,1%,8%,0%,5%,5%,3%,61%,32%,6%,3.92,12143,1
+A Dowry of Blood by S.T. Gibson,292,"['fantasy', 'fiction', 'historical', 'lgbtqia+', 'romance']",0%,0%,15%,35%,63%,51%,9%,96%,0%,14%,3%,25%,28%,0%,49%,38%,11%,4.14,18099,1
+A Touch of Chaos by Scarlett St. Clair,575,"['romance', 'fiction', 'fantasy']",32%,4%,64%,16%,82%,62%,22%,78%,2%,32%,6%,4%,28%,2%,59%,35%,5%,4.1,482,1
+The Thursday Murder Club by Richard Osman,377,"['mystery', 'crime', 'contemporary', 'fiction']",75%,56%,43%,84%,27%,5%,12%,5%,11%,2%,5%,10%,10%,1%,60%,26%,13%,3.86,47503,1
+Little Fires Everywhere by Celeste Ng,338,"['literary', 'contemporary', 'fiction']",3%,2%,8%,47%,76%,31%,10%,18%,1%,22%,9%,61%,23%,2%,65%,15%,19%,4.08,102765,0
+It Happened One Summer by Tessa Bailey,385,"['romance', 'contemporary', 'fiction']",70%,89%,15%,0%,40%,2%,31%,0%,19%,2%,10%,8%,1%,0%,55%,41%,2%,3.95,67328,1
+The Frozen River by Ariel Lawhon,427,"['thriller', 'historical', 'fiction']",2%,0%,32%,62%,74%,44%,19%,28%,1%,26%,35%,31%,29%,37%,73%,15%,11%,4.51,2767,0
+Daughter of No Worlds by Carissa Broadbent,520,"['romance', 'fiction', 'fantasy']",14%,1%,94%,26%,63%,46%,21%,58%,0%,24%,18%,6%,16%,0%,67%,17%,15%,4.08,12674,1
+It Starts with Us by Colleen Hoover,323,"['romance', 'contemporary', 'fiction']",21%,32%,3%,0%,80%,15%,67%,6%,10%,10%,29%,26%,19%,1%,51%,40%,8%,3.71,61272,1
+Ready or Not by Cara Bastone,378,"['romance', 'contemporary', 'fiction']",74%,60%,4%,0%,84%,1%,70%,0%,8%,5%,28%,29%,3%,3%,61%,28%,9%,4.27,1689,0
+The Stolen Heir by Holly Black,356,"['young adult', 'fiction', 'fantasy']",13%,5%,95%,45%,35%,45%,6%,53%,1%,14%,2%,4%,12%,0%,65%,25%,9%,3.99,14235,1
+The Girl on the Train by Paula Hawkins,323,"['thriller', 'literary', 'contemporary', 'fiction']",0%,0%,12%,87%,31%,71%,0%,80%,0%,11%,0%,6%,21%,0%,57%,26%,15%,3.71,120100,0
+Under the Whispering Door by TJ Klune,376,"['lgbtqia+', 'fiction', 'fantasy']",47%,20%,21%,14%,90%,3%,71%,11%,6%,14%,41%,65%,40%,0%,70%,9%,20%,4.27,42326,0
+Faebound by Saara El-Arifi,386,"['romance', 'fiction', 'fantasy']",12%,4%,96%,47%,43%,32%,12%,13%,1%,13%,7%,7%,8%,1%,68%,20%,11%,3.84,2679,1
+Bear by Julia Phillips,304,"['literary', 'fiction']",0%,0%,16%,33%,83%,41%,8%,75%,0%,33%,0%,58%,50%,0%,30%,23%,46%,3.82,23,0
+Housemates by Emma Copley Eisenberg,352,"['lgbtqia+', 'contemporary', 'literary', 'fiction']",55%,0%,44%,0%,77%,0%,11%,0%,11%,22%,22%,88%,22%,0%,55%,11%,33%,4.16,13,0
+The Bee Sting by Paul Murray,645,"['literary', 'fiction']",27%,1%,9%,18%,79%,58%,5%,65%,0%,37%,1%,53%,49%,1%,60%,9%,30%,4.28,2411,0
+Finale by Stephanie Garber,478,"['young adult', 'fiction', 'fantasy']",14%,11%,95%,65%,55%,38%,21%,25%,2%,19%,10%,4%,10%,0%,61%,33%,5%,4.09,33453,1
+The Martian by Andy Weir,369,"['thriller', 'science fiction', 'fiction']",75%,15%,92%,2%,26%,55%,42%,4%,1%,19%,37%,6%,1%,32%,51%,41%,6%,4.35,85317,1
+Slaughterhouse-Five by Kurt Vonnegut,275,"['science fiction', 'classics', 'literary', 'fiction', 'historical']",55%,5%,24%,14%,30%,11%,5%,71%,0%,30%,4%,65%,31%,9%,52%,34%,12%,4.04,73861,0
+Pretty Girls by Karin Slaughter,674,"['mystery', 'thriller', 'crime', 'fiction']",0%,0%,8%,61%,48%,80%,1%,97%,0%,28%,0%,3%,44%,0%,56%,34%,9%,4.0,30364,0
+Martyr! by Kaveh Akbar,331,"['lgbtqia+', 'contemporary', 'literary', 'fiction']",33%,1%,8%,13%,89%,8%,39%,48%,0%,37%,20%,82%,50%,5%,75%,12%,12%,4.48,908,0
+Hooked by Emily McIntire,326,"['thriller', 'romance', 'fiction']",4%,1%,29%,43%,40%,60%,3%,97%,0%,14%,0%,2%,12%,0%,35%,62%,1%,3.7,31898,1
+King of Wrath by Ana Huang,383,"['romance', 'contemporary', 'fiction']",40%,36%,11%,9%,72%,32%,25%,24%,10%,10%,5%,7%,8%,0%,66%,28%,5%,3.96,23829,1
+The Paris Apartment by Lucy Foley,360,"['mystery', 'thriller', 'contemporary', 'fiction']",0%,0%,20%,94%,13%,63%,1%,73%,0%,8%,0%,2%,6%,0%,53%,28%,18%,3.54,40388,0
+Divergent by Veronica Roth,487,"['young adult', 'romance', 'fiction', 'dystopian']",8%,3%,96%,28%,35%,52%,9%,26%,1%,23%,13%,8%,10%,1%,44%,51%,3%,3.92,185098,1
+The Bell Jar by Sylvia Plath,294,"['classics', 'literary', 'fiction']",10%,0%,1%,4%,67%,21%,5%,86%,0%,29%,3%,64%,61%,2%,63%,12%,23%,4.08,97892,0
+An Education in Malice by S.T. Gibson,368,"['fantasy', 'fiction', 'historical', 'lgbtqia+', 'romance']",0%,0%,14%,71%,45%,48%,3%,95%,0%,12%,1%,11%,8%,0%,59%,24%,15%,3.82,1884,0
+The Giver by Lois Lowry,179,"['young adult', 'fiction', 'dystopian']",1%,2%,35%,42%,52%,23%,30%,35%,2%,27%,23%,63%,27%,4%,48%,42%,8%,4.06,128610,1
+Powerless by Elsie Silver,396,"['sports', 'romance', 'contemporary', 'fiction']",56%,56%,14%,1%,83%,8%,48%,4%,11%,7%,19%,16%,16%,0%,68%,23%,8%,4.08,15559,1
+Worst Wingman Ever by Abby Jimenez,61,"['romance', 'contemporary', 'fiction']",54%,65%,1%,0%,62%,0%,45%,0%,6%,0%,17%,12%,21%,0%,15%,82%,1%,3.96,5402,1
+Vicious by V.E. Schwab,364,"['science fiction', 'fiction', 'fantasy']",7%,0%,59%,58%,18%,66%,1%,92%,0%,14%,0%,9%,6%,0%,43%,52%,4%,4.28,55144,1
+The Book Thief by Markus Zusak,552,"['young adult', 'historical', 'fiction']",10%,2%,15%,5%,90%,28%,22%,60%,1%,26%,24%,45%,83%,13%,65%,9%,24%,4.46,159350,0
+Jade City by Fonda Lee,510,"['fiction', 'fantasy']",3%,0%,75%,23%,43%,76%,2%,70%,0%,20%,2%,4%,15%,0%,66%,16%,16%,4.15,16667,1
