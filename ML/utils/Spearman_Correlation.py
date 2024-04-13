@@ -26,8 +26,8 @@ class SpearmanCorrelation:
                 "Wrong type of X. It should be pandas DataFrame, pandas Series, numpy array."
             )
         X = np.array(X)
-        if X.ndim == 1:
-            X = X[None, :]
+        if X.ndim != 1:
+            X = X.squeeze()
         return X
 
     def check_y(
@@ -72,54 +72,67 @@ class SpearmanCorrelation:
             )
         return np.array(X)
 
+    def check_sample_count(self, X1: np.ndarray, X2: np.ndarray) -> None:
+        """
+        Check if the number of samples in X1 and X2 is the same.
+
+        Args:
+            X1 (np.ndarray): feature 1 data.
+            X2 (np.ndarray): feature 2 data.
+        """
+        if X1.shape[0] != X2.shape[0]:
+            raise ValueError("The number of samples in X1 and X2 is not the same.")
+
     def fit(
         self,
-        X: typing.Union[pd.DataFrame, pd.Series, np.ndarray],
-        y: typing.Union[pd.DataFrame, pd.Series, np.ndarray],
+        X1: typing.Union[pd.DataFrame, pd.Series, np.ndarray],
+        X2: typing.Union[pd.DataFrame, pd.Series, np.ndarray],
         alpha: float = 0.05,
     ) -> None:
         """
         Perform Spearman correlation
 
         Args:
-            X (Union[pd.DataFrame, pd.Series, np.ndarray]): input data.
-            y (Union[pd.DataFrame, pd.Series, np.ndarray]): target data.
+            X1 (Union[pd.DataFrame, pd.Series, np.ndarray]): feature 1 data.
+            X2 (Union[pd.DataFrame, pd.Series, np.ndarray]): feature 2 data.
             alpha (float): significance level.
         """
-        X = self.check_X(X)
-        X = self.check_for_object_columns(X)
-        y = self.check_y(y)
-        ranked_X = rankdata(X)
-        ranked_y = rankdata(y)
-        covariance = self.calculate_covariance(X=ranked_X, y=ranked_y)
-        stdX = self.calculate_std(data=ranked_X)
-        stdY = self.calculate_std(data=ranked_y)
+        X1 = self.check_X(X1)
+        X1 = self.check_for_object_columns(X1)
+        X2 = self.check_X(X2)
+        X2 = self.check_for_object_columns(X2)
+        self.check_sample_count(X1=X1, X2=X2)
+        ranked_X1 = rankdata(X1)
+        ranked_X2 = rankdata(X2)
+        covariance = self.calculate_covariance(X1=ranked_X1, X2=ranked_X2)
+        std_X1 = self.calculate_std(data=ranked_X1)
+        std_X2 = self.calculate_std(data=ranked_X2)
         self.correlation_ = self.calculate_correlation(
-            covariance=covariance, stdX=stdX, stdY=stdY
+            covariance=covariance, std_X1=std_X1, std_X2=std_X2
         )
         self.test_statistic_ = self.calculate_test_statistic(
-            correlation=self.correlation_, N=X.shape[0]
+            correlation=self.correlation_, N=X1.shape[0]
         )
         self.p_value_ = self.calculate_p_value_t_test(
-            t_test=self.test_statistic_, df=X.shape[0] - 2
+            t_test=self.test_statistic_, df=X1.shape[0] - 2
         )
         self.critical_value_ = self.calculate_critical_value(
-            df=X.shape[0] - 2, alpha=alpha
+            df=X1.shape[0] - 2, alpha=alpha
         )
         self.keep_H0 = self.statistical_inference(p_value=self.p_value_, alpha=alpha)
 
-    def calculate_covariance(self, X: np.ndarray, y: np.ndarray) -> np.ndarray:
+    def calculate_covariance(self, X1: np.ndarray, X2: np.ndarray) -> np.ndarray:
         """
         Calculate covariance between two arrays.
 
         Args:
-            X (np.ndarray): input data.
-            y (np.ndarray): target data.
+            X1 (np.ndarray): feature 1 data.
+            X2 (np.ndarray): feature 2 data.
 
         Returns:
             np.ndarray: covariance matrix.
         """
-        return np.cov(X, y)
+        return np.cov(X1, X2)
 
     def calculate_std(self, data: np.ndarray) -> np.ndarray:
         """
@@ -134,20 +147,20 @@ class SpearmanCorrelation:
         return np.std(data)
 
     def calculate_correlation(
-        self, covariance: np.ndarray, stdX: np.ndarray, stdY: np.ndarray
+        self, covariance: np.ndarray, std_X1: np.ndarray, std_X2: np.ndarray
     ) -> np.ndarray:
         """
         Calculate correlation between two arrays.
 
         Args:
             covariance (np.ndarray): covariance matrix.
-            stdX (np.ndarray): standard deviation of X.
-            stdY (np.ndarray): standard deviation of Y.
+            std_X1 (np.ndarray): standard deviation of feature 1.
+            std_X2 (np.ndarray): standard deviation of feature 2.
 
         Returns:
             np.ndarray: correlation between X and Y.
         """
-        return (covariance / (stdX * stdY))[1][0]
+        return (covariance / (std_X1 * std_X2))[1][0]
 
     def calculate_test_statistic(self, correlation: np.ndarray, N: int) -> np.ndarray:
         """
